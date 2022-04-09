@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **kennethchuson/kennethchuson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![IMG-2145](https://user-images.githubusercontent.com/39846044/162554002-05cbb106-a09f-4ce1-a4fc-f56d943c5c3b.gif)
