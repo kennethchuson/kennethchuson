@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h4 align="center">EXPLORE AND DEVELOP NEW THINGS!</h4>
 
 ![IMG-2145](https://user-images.githubusercontent.com/39846044/162554002-05cbb106-a09f-4ce1-a4fc-f56d943c5c3b.gif)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethchuson&show_icons=true&theme=dark)
-<h1 align="center">EXPLORE AND DEVELOP NEW THINGS!</h1>
+
 
 
