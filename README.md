@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![IMG-2145](https://user-images.githubusercontent.com/39846044/162554002-05cbb106-a09f-4ce1-a4fc-f56d943c5c3b.gif)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethchuson&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethchuson&show_icons=true&theme=dark)
+
 
